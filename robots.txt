@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kyraveprek.github.io/al-folio/sitemap.xml
+Sitemap: https://kyraveprek.github.io/sitemap.xml
