@@ -13,8 +13,8 @@ profile:
     <p>190 Thayer Street</p>
     <p>Providence, RI 02906</p>
 
-selected_papers: > false # includes a list of papers marked as "selected={true}"
-social: > false # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD candidate at [Brown University](https://www.brown.edu) in the [Department of Cognitive and Psychological Sciences](https://copsy.brown.edu). 
+I am a PhD candidate at [Brown University](https://www.brown.edu) in the [Department of Cognitive and Psychological Sciences](https://copsy.brown.edu).
 
 My work explores the dynamic relationship between human (and robot) visual perception and action. I take a dynamical systems approach to understanding agent-environment interaction, specifically in collective settings.
 
-Before Brown, I received concurrent Bachelors degrees from [UMass Amherst](https://www.umass.edu) in Psychology and Studio Art. I also worked for [Sagefox Consulting Group](https://www.sagefoxgroup.com) as a Research Associate.  
+Before Brown, I received concurrent Bachelors degrees from [UMass Amherst](https://www.umass.edu) in Psychology and Studio Art. I also worked for [Sagefox Consulting Group](https://www.sagefoxgroup.com) as a Research Associate.
