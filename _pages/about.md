@@ -23,8 +23,8 @@ announcements:
 
 I am a PhD candidate at [Brown University](https://www.brown.edu) in the [Department of Cognitive and Psychological Sciences](https://copsy.brown.edu).
 
-My work explores the dynamic relationship between human visual perception and action in humans and robots. I take a dynamical systems approach to understanding agent-environment interaction, specifically in collective settings.
+My work explores the dynamic relationship between visual perception and action in humans and robots. I take a dynamical systems approach to understanding agent-environment interaction, specifically in collective settings.
 
 Before Brown, I received concurrent Bachelors degrees from [UMass Amherst](https://www.umass.edu) in Psychology and Studio Art. I also worked for [Sagefox Consulting Group](https://www.sagefoxgroup.com) as a Research Associate.
 
-You can check out my academic CV [here](Veprek_CurriculumVitae.pdf)
+You can check out my CV [here](Veprek_CurriculumVitae.pdf)
