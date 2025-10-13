@@ -5,7 +5,7 @@ permalink: /
 subtitle: kyraveprek24 [at] gmail.com
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -26,3 +26,5 @@ I am a PhD candidate at [Brown University](https://www.brown.edu) in the [Depart
 My work explores the dynamic relationship between human visual perception and action in humans and robots. I take a dynamical systems approach to understanding agent-environment interaction, specifically in collective settings.
 
 Before Brown, I received concurrent Bachelors degrees from [UMass Amherst](https://www.umass.edu) in Psychology and Studio Art. I also worked for [Sagefox Consulting Group](https://www.sagefoxgroup.com) as a Research Associate.
+
+You can check out my academic CV [here](Veprek_CurriculumVitae.pdf)
