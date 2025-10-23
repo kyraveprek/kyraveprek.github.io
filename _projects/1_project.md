@@ -22,4 +22,3 @@ Veprek, K., & Warren W. (2023). Human collision avoidance with multiple moving o
 
 [Veprek, K., & Warren, W. (2023). Visual Collision Avoidance in a Crowd. Journal of Vision, 23(9), 5545-5545.](https://doi.org/10.1167/jov.23.9.5545)
 
-{% endraw %}
