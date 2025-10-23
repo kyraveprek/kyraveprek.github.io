@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "A directory of projects",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -46,23 +46,23 @@ ninja.data = [{
             },},{id: "news-our-work-on-crossing-flows-of-human-pedestrians-was-published-as-part-of-the-proceedings-of-the-traffic-and-granular-flow-tgf-conference",
           title: 'Our work on crossing flows of human pedestrians was published as part of...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-the-visual-control-of-collision-avoidance-in-crowds",
+          title: 'The visual control of collision avoidance in crowds.',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-patterns-of-collective-motion-in-human-crowds",
+          title: 'Patterns of collective motion in human crowds',
+          description: "Testing a vision-based model in simulating crossing flows of human pedestrians",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
+            },},{id: "projects-mutual-avoidance",
+          title: 'Mutual Avoidance',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project.html";
-            },},{id: "projects-project-4",
-          title: 'project 4',
+            },},{id: "projects-architecture-school",
+          title: 'Architecture School',
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project.html";
@@ -81,16 +81,6 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project.html";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project.html";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project.html";
             },},{
         id: 'social-email',
         title: 'email',
