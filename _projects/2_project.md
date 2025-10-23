@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Patterns of collective motion in human crowds
+description: Testing a vision-based model in simulating crossing flows of human pedestrians
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: Research
 giscus_comments: true
 ---
 

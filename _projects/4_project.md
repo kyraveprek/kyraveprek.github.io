@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
+title: Architecture School
 description: another without an image
 img:
-importance: 3
-category: fun
+importance: 1
+category: Design
 ---
 
 Every project has a beautiful feature showcase page.

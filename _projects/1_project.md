@@ -1,25 +1,16 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: The visual control of collision avoidance in crowds.
+description: 
+# img: assets/img/12.jpg
 importance: 1
-category: work
-related_publications: true
+category: Research
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Walking across a busy crosswalk, you are able to get to the other side without running into anyone. It seems obvious that, if you're paying attention, you can easily avoid one other individual. You might even predict something about their future trajectory and pick a path early on. But how do you go about walking when your faced with many people, in a space where motion isn't so predictable.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+To investigate this question, I've designed and run a series of behavioral experiments in virtual reality (VR). Participants freely walk in a 14x14m space ([The VENLab](https://sites.brown.edu/venlab/)) while weaving through crowds of walking avatars in their virtual environment. I test the observed behavior against simulations of a dynmaic vision-based model of collision avoidance behavior to probe the visual information to which humans respond.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -44,38 +35,15 @@ To give your project a background in the portfolio page, just add the img tag to
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+Parts of this work have been presented and published in the following:
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Veprek, K., & Warren W. (2024). How many potential collisions do we respond to at once: Investigating the efficacy of visual thresholds in human crowds. Poster presented at the International Conference on Perception and Action, Trondheim, Norway.
 
-{% raw %}
+[Veprek, K., & Warren, W. (2024). How many moving obstacles do we respond to at once? A temporal threshold model best accounts for collision avoidance in a crowd. Journal of Vision, 24(10), 1313-1313.](https://doi.org/10.1167/jov.24.10.1313) 
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+Veprek, K., & Warren W. (2023). Human collision avoidance with multiple moving obstacles. Talk presented as part of the symposium Flow in Flight at the International Conference on Perception and Action, Guadalajara, Mexico. 
+
+[Veprek, K., & Warren, W. (2023). Visual Collision Avoidance in a Crowd. Journal of Vision, 23(9), 5545-5545.](https://doi.org/10.1167/jov.23.9.5545)
 
 {% endraw %}
