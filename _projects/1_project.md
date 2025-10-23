@@ -2,7 +2,7 @@
 layout: page
 title: The visual control of collision avoidance in crowds.
 description: 
-# img: assets/img/12.jpg
+img: assets/img/collision_avoidance.jpg
 importance: 1
 category: Research
 related_publications: false
@@ -11,30 +11,6 @@ related_publications: false
 Walking across a busy crosswalk, you are able to get to the other side without running into anyone. It seems obvious that, if you're paying attention, you can easily avoid one other individual. You might even predict something about their future trajectory and pick a path early on. But how do you go about walking when your faced with many people, in a space where motion isn't so predictable.
 
 To investigate this question, I've designed and run a series of behavioral experiments in virtual reality (VR). Participants freely walk in a 14x14m space ([The VENLab](https://sites.brown.edu/venlab/)) while weaving through crowds of walking avatars in their virtual environment. I test the observed behavior against simulations of a dynmaic vision-based model of collision avoidance behavior to probe the visual information to which humans respond.
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
 
 Parts of this work have been presented and published in the following:
 
