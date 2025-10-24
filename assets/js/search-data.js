@@ -47,13 +47,13 @@ ninja.data = [{
           title: 'Our work on crossing flows of human pedestrians was published as part of...',
           description: "",
           section: "News",},{id: "projects-the-visual-control-of-collision-avoidance-in-crowds",
-          title: 'The visual control of collision avoidance in crowds.',
+          title: 'The visual control of collision avoidance in crowds',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-patterns-of-collective-motion-in-human-crowds",
           title: 'Patterns of collective motion in human crowds',
-          description: "Testing a vision-based model in simulating crossing flows of human pedestrians",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
             },},{id: "projects-mutual-avoidance",
