@@ -180,6 +180,7 @@ exclude:
   - teaching/
   - _pages/publications.md
   - _pages/dropdown.md
+  - _pages/cv.md
 keep_files:
   - CNAME
   - .nojekyll
