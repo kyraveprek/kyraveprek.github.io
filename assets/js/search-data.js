@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "A directory of projects",
+          description: "A directory of my research and design work",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -61,9 +61,9 @@ ninja.data = [{
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project.html";
-            },},{id: "projects-architecture-school",
-          title: 'Architecture School',
-          description: "another without an image",
+            },},{id: "projects-architecture-amp-graphic-design",
+          title: 'Architecture &amp;amp; Graphic Design',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project.html";
             },},{id: "projects-project-5",
