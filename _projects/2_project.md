@@ -1,81 +1,30 @@
 ---
 layout: page
 title: Patterns of collective motion in human crowds
-description: Testing a vision-based model in simulating crossing flows of human pedestrians
-img: assets/img/3.jpg
+description: 
+img: assets/img/crossing.jpg
 importance: 2
 category: Research
-giscus_comments: true
+giscus_comments: false
 ---
-
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/criss_crossing_crowd.jpg" title="original image from Unsplash" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Pedestrians crossing the street. Lanes of bidirectional flows emerge spontaneously, without explicit instruction.
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+When groups of people moving in opposing directions cross one anothers path, such as at busy intersections, groups of people spontaneously form lanes and stripes. This phenomenon is considered to be a "pattern of collective motion", akin to cohesive flocks of birds or schools of fish. Many physical models exist which can simulate many agents (people) in a way that these patterns observed in humans behavior emerge. This models are highly constrained, however, in that they rely on each agent having access to lots of environmental information (e.g. the metric distances or masses of others, etc.) that humans do not.
 
-{% raw %}
+This project has involved analyzing experimental data on these "crossing flows" and generating simulations using our vision-based model, in order to understand the underlying mechanisms at work. By testing different combinations of goals and influences of visual information, we hope to build a concise understanding of the visual control of locomotion in collective setting. We additionally hope these findings might be informative for simulation and animation.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+Parts of this work have been presented and published in the following:
 
-{% endraw %}
+Feldmann, S., Veprek, K., & Warren, W. (2025). Simulating crossing pedestrian flows with a vision-based model of collision avoidance. Talk presented at the International Conference on Pedestrian and Evacuation Dynamics (PED), Prague, Czech Republic. 
+
+[Feldmann, S., Veprek, K., & Warren, W. H. (2025). Formation of lanes and stripes in crossing pedestrian flows using an empirical human model. In Proceedings of the Traffic and Granular Flow Conference. EPJ Web of Conferences (Vol. 334, p. 04011). EDP Sciences.](https://www.epj-conferences.org/articles/epjconf/pdf/2025/19/epjconf_tgf2024_04011.pdf)
+
+[Veprek, K., Feldmann, S., & Warren, W. (2025). Visual model of locomotion reproduces lanes and stripes in crossing human crowds. Journal of Vision, 25(9), 2681-2681.](https://doi.org/10.1167/jov.25.9.2681)
+

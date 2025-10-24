@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The visual control of collision avoidance in crowds.
+title: The visual control of collision avoidance in crowds
 description: 
 img: assets/img/collision_avoidance.jpg
 importance: 1
@@ -8,9 +8,9 @@ category: Research
 related_publications: false
 ---
 
-Walking across a busy crosswalk, you are able to get to the other side without running into anyone. It seems obvious that, if you're paying attention, you can easily avoid one other individual. You might even predict something about their future trajectory and pick a path early on. But how do you go about walking when your faced with many people, in a space where motion isn't so predictable.
+Walking across a busy crosswalk, you are able to get to the other side without running into anyone. It seems obvious that, if you're paying attention, you can easily avoid one opposing individual. You might even quickly pick a path which guarantees no risk of collision. But how do you go about walking when your faced with many people and many potential collisions, in a space where motion isn't so predictable?
 
-To investigate this question, I've designed and run a series of behavioral experiments in virtual reality (VR). Participants freely walk in a 14x14m space ([The VENLab](https://sites.brown.edu/venlab/)) while weaving through crowds of walking avatars in their virtual environment. I test the observed behavior against simulations of a dynmaic vision-based model of collision avoidance behavior to probe the visual information to which humans respond.
+To investigate this question, I've designed and run a series of behavioral experiments in virtual reality (VR). Participants freely walk in a 14x14m space ([The VENLab](https://sites.brown.edu/venlab/)) while weaving through crowds of walking avatars in their virtual environment. I test the observed behavior against simulations of a dynamic vision-based model of collision avoidance behavior to probe the visual information to which humans respond.
 
 Parts of this work have been presented and published in the following:
 
