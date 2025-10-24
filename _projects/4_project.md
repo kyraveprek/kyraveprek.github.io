@@ -2,14 +2,12 @@
 layout: page
 title: Architecture & Graphic Design
 description:
-img: Holyoke.jpg
+img: assets/img/Holyoke.jpg
 importance: 1
 category: Design
 ---
 
 Prior to discovering scientific research as a career path, I completed two years of architecture school. Thinking about how we experience space in built environments was the catalyst for my interest in vision and perceptual sciences. 
-
-While I don't spend time sketching up cool floor plans anymore, I'm grateful for the foundational design skills I developed and am proud to showcase my early work!
 
 <div class="row">
     <div class="col-sm mt-4 mt-md-0">

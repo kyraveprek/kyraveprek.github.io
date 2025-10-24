@@ -8,7 +8,7 @@ category: Research
 giscus_comments: false
 ---
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-4 mt-md-0">
         {% include figure.liquid path="assets/img/criss_crossing_crowd.jpg" title="original image from Unsplash" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
