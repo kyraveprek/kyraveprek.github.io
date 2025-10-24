@@ -23,7 +23,7 @@ announcements:
 
 I am a PhD candidate at [Brown University](https://www.brown.edu) in the [Department of Cognitive and Psychological Sciences](https://copsy.brown.edu).
 
-I investigate how humans use visual information to guide their movement through dynamic environments. My work focuses on identifying the environmental cues that shape our locomotion and understanding how these cues support adaptive behavior in complex settings. As an artist/architect turned cognitive scientist, I am most excited about understanding the relationship between our physical world and our perceptions of it. 
+I investigate how humans use visual information to guide their movement through dynamic environments. As an artist & architect turned cognitive scientist, I am most excited about understanding the relationship between our physical world and our perceptions of it. 
 
 Before Brown, I received concurrent Bachelors degrees from [UMass Amherst](https://www.umass.edu) in Psychology and Studio Art. I also worked for [Sagefox Consulting Group](https://www.sagefoxgroup.com) as a Research Associate.
 
