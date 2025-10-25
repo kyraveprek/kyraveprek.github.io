@@ -21,10 +21,10 @@ announcements:
 
 ---
 
-I am a PhD candidate at [Brown University](https://www.brown.edu) in the [Department of Cognitive and Psychological Sciences](https://copsy.brown.edu).
+I am a PhD candidate at [Brown University](https://www.brown.edu) in the [Department of Cognitive and Psychological Sciences](https://copsy.brown.edu), working with the [Virtual Environment Navigation Lab](https://sites.brown.edu/venlab/).
 
 I investigate how humans use visual information to guide their movement through dynamic environments. As an artist & architect turned cognitive scientist, I am most excited about understanding the relationship between our physical world and our perceptions of it. 
 
-Before Brown, I received concurrent Bachelors degrees from [UMass Amherst](https://www.umass.edu) in Psychology and Studio Art. I also worked for [Sagefox Consulting Group](https://www.sagefoxgroup.com) as a Research Associate.
+Before Brown, I received concurrent Bachelors degrees in Psychology and Studio Art from [UMass Amherst](https://www.umass.edu). There, I was a research assistant with the [Visual Cognition and Attention Lab](https://websites.umass.edu/vcalab/). I also worked for [Sagefox Consulting Group](https://www.sagefoxgroup.com) as a Research Associate.
 
 You can check out my CV [here](Veprek_CurriculumVitae.pdf)
