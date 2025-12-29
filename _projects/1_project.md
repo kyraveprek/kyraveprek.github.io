@@ -12,6 +12,15 @@ Walking across a busy crosswalk, you are able to get to the other side without r
 
 To investigate this question, I've designed and run a series of behavioral experiments in virtual reality (VR). Participants freely walk in a 14x14m space ([The VENLab](https://sites.brown.edu/venlab/)) while weaving through crowds of walking avatars in their virtual environment. I test the observed behavior against simulations of a dynamic vision-based model of collision avoidance behavior to probe the visual information to which humans respond.
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-4 mt-md-0">
+        {% include figure.liquid path="assets/img/VSS24_Poster_Final.jpg" title="VSS 2024 Poster" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Poster presentation from the 2024 Annual Meeting of the Vision Sciences Society. All aspects of this poster were designed and created by me. 
+</div>
+
 Parts of this work have been presented and published in the following:
 
 Veprek, K., & Warren W. (2024). How many potential collisions do we respond to at once: Investigating the efficacy of visual thresholds in human crowds. Poster presented at the International Conference on Perception and Action, Trondheim, Norway.
